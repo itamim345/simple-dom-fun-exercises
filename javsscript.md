@@ -51,7 +51,9 @@
 ### Output
 
 ![Output](./Pic5.png)
+# My Output
 
+![Output](./myOutput3.png)
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
 ### Topics
