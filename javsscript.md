@@ -14,9 +14,9 @@
 
         Target the Top description div and change the DEV Community to <Your_Name> and description to your passion
 
-### Output
+# My Output
 
-![Output](./Pic2.png)
+![Output](./output1.png)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
@@ -29,6 +29,10 @@
 ### Output
 
 ['iPhone', 'Mac', 'iPad', 'Watch', 'AirPods', 'Music', 'TV']
+
+# My Output
+
+![Output](./myOutput2.png)
 
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
