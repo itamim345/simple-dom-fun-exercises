@@ -54,6 +54,7 @@
 # My Output
 
 ![Output](./myOutput3.png)
+
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
 ### Topics
@@ -71,6 +72,10 @@
 ### Output
 
 ![Output](./Pic7.png)
+
+# My Output
+
+![Output](./myOutput4.png)
 
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
