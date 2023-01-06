@@ -95,6 +95,10 @@
 
 ![Output](./Pic9.png)
 
+# My Output
+
+![Output](./myOutput5.png)
+
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
 ### Topics
