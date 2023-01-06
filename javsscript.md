@@ -117,6 +117,10 @@
 
 ![Output](./Pic11.png)
 
+# My Output
+
+![Output](./myOutput6.png)
+
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### Topics
