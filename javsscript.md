@@ -164,6 +164,10 @@
 
 ![Output](./Pic15.png)
 
+# My Output
+
+![Output](./myOutput8.png)
+
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
 ### Topics
