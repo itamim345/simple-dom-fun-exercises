@@ -410,6 +410,10 @@ Target the top description and change “Matching developers with great companie
 
 ![Output](./Pic37.png)
 
+# My Output
+
+![Output](./myOutput19.png)
+
 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
 ### Topics
