@@ -16,7 +16,7 @@
 
 # My Output
 
-![Output](./output1.png)
+![Output](./myOutput1.png)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
