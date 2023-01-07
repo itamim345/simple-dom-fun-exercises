@@ -1,4 +1,4 @@
-# These are the outputs only, Detailed Questions & outputs are in javascrip.md file.
+# These are the outputs only, For Detailed Questions & outputs [Click Here](https://github.com/itamim345/simple-dom-fun-exercises/blob/main/javsscript.md)
 
 ## My Output 1
 

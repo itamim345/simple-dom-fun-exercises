@@ -16,7 +16,7 @@
 
 # My Output
 
-![Output](./myOutput1.png)
+![Output](https://i.ibb.co/PW2GTr9/my-Output1.png)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
@@ -32,7 +32,7 @@
 
 # My Output
 
-![Output](./myOutput2.png)
+![Output](https://i.ibb.co/RjRj7NJ/my-Output2.png)
 
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
@@ -53,7 +53,7 @@
 ![Output](./Pic5.png)
 # My Output
 
-![Output](./myOutput3.png)
+![Output](https://i.ibb.co/QbT40WK/my-Output3.png)
 
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
@@ -75,7 +75,7 @@
 
 # My Output
 
-![Output](./myOutput4.png)
+![Output](https://i.ibb.co/gvTGdv3/my-Output4.png)
 
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
@@ -97,7 +97,7 @@
 
 # My Output
 
-![Output](./myOutput5.png)
+![Output](https://i.ibb.co/mFPYFXX/my-Output5.png)
 
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
@@ -119,7 +119,7 @@
 
 # My Output
 
-![Output](./myOutput6.png)
+![Output](https://i.ibb.co/CVbs7Wc/my-Output6.png)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -141,8 +141,7 @@
 ![Output](./Pic13.png)
 
 # My Output
-
-![Output](./myOutput7.png)
+![Output](https://i.ibb.co/wp6Q2x8/my-Output7.png)
 
 
 
@@ -166,7 +165,7 @@
 
 # My Output
 
-![Output](./myOutput8.png)
+![Output](https://i.ibb.co/BtWtVSp/my-Output8.png)
 
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
@@ -188,7 +187,7 @@
 
 # My Output
 
-![Output](./myOutput9.png)
+![Output](https://i.ibb.co/YkxJMQF/my-Output9.png)
 
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
@@ -211,7 +210,7 @@
 
 # My Output
 
-![Output](./myOutput10.png)
+![Output](https://i.ibb.co/fCRqXbr/my-Output10.png)
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 
@@ -234,7 +233,7 @@
 
 # My Output
 
-![Output](./myOutput11.png)
+![Output](https://i.ibb.co/whdbQQj/my-Output11.png)
 
 12. Webiste Name: [Github](https://github.com/)
 
@@ -257,8 +256,7 @@
 
 # My Output
 
-![Output](./myOutput12.png)
-
+![Output](https://i.ibb.co/S3Vrxgp/my-Output12.png)
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
 ### Topics
@@ -280,7 +278,7 @@ Target the top description and change “Matching developers with great companie
 
 # My Output
 
-![Output](./myOutput13.png)
+![Output](https://i.ibb.co/RD32KRm/my-Output13.png)
 
 14. Webiste Name: [Asus](https://www.asus.com/in/)
 
@@ -302,7 +300,7 @@ Target the top description and change “Matching developers with great companie
 
 # My Output
 
-![Output](./myOutput14.png)
+![Output](https://i.ibb.co/fXTLDH1/my-Output14.png)
 
 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
@@ -324,7 +322,7 @@ Target the top description and change “Matching developers with great companie
 
 # My Output
 
-![Output](./myOutput15.png)
+![Output](https://i.ibb.co/jJHDnJG/my-Output15.png)
 
 16. Webiste Name: [Vercel](https://vercel.com/)
 
@@ -346,7 +344,7 @@ Target the top description and change “Matching developers with great companie
 
 # My Output
 
-![Output](./myOutput16.png)
+![Output](https://i.ibb.co/NrvsRRG/my-Output16.png)
 
 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
@@ -368,7 +366,7 @@ Target the top description and change “Matching developers with great companie
 
 # My Output
 
-![Output](./myOutput17.png)
+![Output](https://i.ibb.co/vcyfqZN/my-Output17.png)
 
 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
@@ -390,7 +388,8 @@ Target the top description and change “Matching developers with great companie
 
 # My Output
 
-![Output](./myOutput18.png)
+
+![Output](https://i.ibb.co/F32WqZM/my-Output18.png)
 
 19. Webiste Name: [Canon](https://in.canon/)
 
@@ -412,7 +411,7 @@ Target the top description and change “Matching developers with great companie
 
 # My Output
 
-![Output](./myOutput19.png)
+![Output](https://i.ibb.co/kgY6RsB/my-Output19.png)
 
 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
@@ -434,4 +433,4 @@ Target the top description and change “Matching developers with great companie
 
 # My Output
 
-![Output](./myOutput20.png)
+![Output](https://i.ibb.co/87fCVtv/my-Output20.png)
